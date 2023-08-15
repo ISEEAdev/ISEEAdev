@@ -39,6 +39,6 @@ If you're new to contributing or need help with any aspect of our projects, don'
 
 ## Contact Us
 
-For inquiries or more information about ISEEA, visit our [official website](https://[www.iseea.n](https://iseea.vercel.app) or contact the developer [tosironj@gmail.com](mailto:tosironj@gmail.com). directly.
+For inquiries or more information about ISEEA, visit our [official website](https://iseea.vercel.app) or contact the developer [tosironj@gmail.com](mailto:tosironj@gmail.com). directly.
 
 Thank you for being a part of the ISEEA community and supporting our mission to empower the youth!
